@@ -26,11 +26,6 @@ This repository contains the codebase for a Hotel Room Booking microservices pro
 
 Explain the flow of communication between microservices using diagrams or textual descriptions.
 
-## How to Run Locally
-
-1. Clone the repository: git clone https://github.com/your-username/hotel-booking-microservices.git
-2. Navigate to each microservice directory and run: mvn spring-boot:run
-
 ## API Documentation
 
 ### Postman Collection Screenshots
